@@ -7,14 +7,14 @@
 class Solution:
     def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
         self.sumNode = 0
-        def postorder(node):
+        def inOrder(node):
             if not node:
                 return None
-            postorder(node.left)
-            postorder(node.right)
+            inOrder(node.left)
             if node.val>=low and node.val<=high:
                 self.sumNode+=node.val
+            inOrder(node.right)
         
-        postorder(root)
+        inOrder(root)
         return self.sumNode
         
