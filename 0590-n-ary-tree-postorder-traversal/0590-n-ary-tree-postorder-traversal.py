@@ -11,11 +11,11 @@ class Solution:
         if not root:
             return []
         res = []
-        def postorder_trav(child):
-            if len(child)>0:
-                for i in child:
-                    postorder_trav(i.children)
-                    res.append(i.val)
+        def postorder_trav(node):
+            if len(node)>0:
+                for child in node:
+                    postorder_trav(child.children)
+                    res.append(child.val)
         postorder_trav(root.children)
         res.append(root.val)
         return res
