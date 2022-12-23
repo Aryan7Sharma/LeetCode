@@ -11,10 +11,10 @@ class Solution:
         if not root:
             return []
         res = [root.val]
-        def p_trav(child):
-            if len(child)>0:
-                for i in child:
-                    res.append(i.val)
-                    p_trav(i.children)
+        def p_trav(node):
+            if len(node)>0:
+                for child in node:
+                    res.append(child.val)
+                    p_trav(child.children)
         p_trav(root.children)
         return res
