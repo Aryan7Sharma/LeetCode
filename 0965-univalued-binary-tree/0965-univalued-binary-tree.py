@@ -7,7 +7,6 @@
 class Solution:
     def isUnivalTree(self, root: Optional[TreeNode]) -> bool: # Byusing BFS Method
         if root:
-            print(root.val)
             if root.left and root.val!=root.left.val:
                 return False
             if root.right and root.val!=root.right.val:
