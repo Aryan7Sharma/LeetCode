@@ -5,15 +5,12 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isUnivalTree(self, root: Optional[TreeNode]) -> bool: # Byusing DFS Method
-        self.uniVal = root.val
-        dfs_queue = deque([root])
-        while dfs_queue:
-            curr_level = dfs_queue.popleft()
-            if curr_level.val!=self.uniVal:
+    def isUnivalTree(self, root: Optional[TreeNode]) -> bool: # Byusing BFS Method
+        if root:
+            print(root.val)
+            if root.left and root.val!=root.left.val:
                 return False
-            if curr_level.left:
-                dfs_queue.append(curr_level.left)
-            if curr_level.right:
-                dfs_queue.append(curr_level.right)
+            if root.right and root.val!=root.right.val:
+                return False
+            return self.isUnivalTree(root.left) and self.isUnivalTree(root.right)
         return True
