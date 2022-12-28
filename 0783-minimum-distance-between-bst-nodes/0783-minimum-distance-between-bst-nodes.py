@@ -5,18 +5,15 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def minDiffInBST(self, root: Optional[TreeNode]) -> int:
-        self.queue = deque([root])
+    def minDiffInBST(self, root: Optional[TreeNode]) -> int: #DFS
         self.all_Nvalue = []
         ans = float('inf')
-        while self.queue:
-            curr_level = self.queue.popleft()
-            self.all_Nvalue.append(curr_level.val)
-            if curr_level.left:
-                self.queue.append(curr_level.left)
-            if curr_level.right:
-                self.queue.append(curr_level.right)
-        self.all_Nvalue.sort()
+        def dfs(node):
+            if node:
+                dfs(node.left)
+                self.all_Nvalue.append(node.val)
+                dfs(node.right)
+        dfs(root)
         for i in range(len(self.all_Nvalue)-1):
             ans = min(ans, self.all_Nvalue[i+1]-self.all_Nvalue[i])
         return ans
