@@ -16,14 +16,11 @@ class Solution:
 
             for node, parent in queue:
                 if node.val == x:
-                    print(xParent,yParent)
                     xParent = parent
                 elif node.val == y:
-                    print(xParent,yParent)
                     yParent = parent
 
                 if xParent and yParent:
-                    print(xParent,yParent)
                     return xParent != yParent
 
                 if node.left:
