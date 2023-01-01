@@ -6,17 +6,16 @@
 #         self.right = right
 class Solution:
     def findSecondMinimumValue(self, root: Optional[TreeNode]) -> int:
-        uniques = set()
-        def dfs(node):
-            if node:
-                uniques.add(node.val)
-                dfs(node.left)
-                dfs(node.right)
-        dfs(root)
         minl,ans = root.val,float('inf')
-        for v in uniques:
-            if minl < v < ans:
-                ans = v
+        def dfs(node):
+            nonlocal ans
+            if node:
+                if minl < node.val < ans:
+                    ans = node.val
+                elif node.val == minl:
+                    dfs(node.left)
+                    dfs(node.right)
+        dfs(root)
         return ans if ans!=float('inf') else -1
                 
         
