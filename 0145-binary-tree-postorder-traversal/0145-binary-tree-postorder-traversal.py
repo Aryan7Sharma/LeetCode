@@ -9,8 +9,7 @@ class Solution:
         answer = []
         def  dfs(node):
             if node:
-                dfs(node.left)
-                dfs(node.right)
-                answer.append(node.val)
-        dfs(root)
-        return answer
+                yield from dfs(node.left)
+                yield from dfs(node.right)
+                yield node.val
+        return list(dfs(root))
