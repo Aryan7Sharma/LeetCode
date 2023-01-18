@@ -4,17 +4,18 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
+class Solution: #BFS
     def minDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        self.min_depth = float('inf')
-        def dfs(node, num):
-            if node:
-                if not node.left and not node.right:
-                    self.min_depth = min(self.min_depth, num)
-                dfs(node.left, num+1)
-                dfs(node.right, num+1)
-        dfs(root, 1)
-        return self.min_depth
+        bfs_queue = deque([(root,1)])
+        while bfs_queue:
+            curr_node,num = bfs_queue.popleft()
+            if not curr_node.left and not curr_node.right:
+                return num
+            if curr_node.left:
+                bfs_queue.append((curr_node.left, num+1))
+            if curr_node.right:
+                bfs_queue.append((curr_node.right, num+1))
+        return -1
         
