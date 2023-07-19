@@ -5,16 +5,12 @@ class Solution:
         for i in s:
             if i in hashmap:hashmap[i]+=1
             else:hashmap[i]=1
-        #print(hashmap)
         newStr = []
         while hashmap:
             print(hashmap)
             keys = list(hashmap.keys()) # Create a copy of the dictionary keys
             revStr = ""
-
-            #print(newStr)
             for k in keys:
-                #print(hashmap,"ch")
                 if hashmap[k]>1:
                     revStr+=k
                     hashmap[k]-=2 
