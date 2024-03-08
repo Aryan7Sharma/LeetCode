@@ -1,15 +1,19 @@
-#include<iostream>    
-#include<algorithm>
-using namespace std;
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        int n = size(nums);
-        for(unsigned int i=0; i<n; i++){
-            int currValue = nums[i];
-            nums[i] = currValue*currValue;
+        int n = nums.size();
+        int i = 0, j = n-1;
+        vector<int> result(n);
+        
+        for(int k = n-1; k>=0; k--) {
+            if (abs(nums[i]) > abs(nums[j])) {
+                result[k] = nums[i] * nums[i];
+                i++;
+            }else {
+                result[k] = nums[j] * nums[j];
+                j--; 
+            }
         }
-        sort(nums.begin(), nums.end()); // Sorting the vector
-        return nums;
+        return result;
     }
 };
