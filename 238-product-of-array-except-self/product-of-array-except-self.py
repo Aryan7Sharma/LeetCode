@@ -10,9 +10,11 @@ class Solution:
             else:
                 numsProd*=i
             if countZero>1:
-                nums = [0]*len(nums)
-                return nums
-        if flagZero:
+                break
+        if countZero>1:
+            for i in range(len(nums)):
+                nums[i] = 0
+        elif flagZero:
             for i in range(len(nums)):
                 if nums[i]==0:
                     nums[i] = numsProd
