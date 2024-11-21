@@ -1,6 +1,6 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int:
-        minimum = 100000
+        minimum = float('inf')
         for i in range(len(nums)):
             numTotal = 0
             for num in str(nums[i]):
