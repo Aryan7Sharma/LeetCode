@@ -6,6 +6,6 @@ class Solution:
             for num in str(nums[i]):
                 numTotal+=int(num)
             nums[i] = numTotal
-            minimum = min(minimum, numTotal)
+            if(minimum>numTotal):minimum=numTotal
         return minimum
         
