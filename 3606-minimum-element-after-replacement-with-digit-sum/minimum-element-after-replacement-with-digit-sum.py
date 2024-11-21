@@ -1,13 +1,11 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int:
-        index = 0
         minimum = 100000
-        for i in nums:
+        for i in range(len(nums)):
             numTotal = 0
-            for num in str(i):
+            for num in str(nums[i]):
                 numTotal+=int(num)
-            nums[index] = numTotal
-            index+=1
+            nums[i] = numTotal
             minimum = min(minimum, numTotal)
         return minimum
         
