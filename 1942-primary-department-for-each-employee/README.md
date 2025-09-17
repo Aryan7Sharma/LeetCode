@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/primary-department-for-each-employee">Primary Department for Each Employee</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Employee</code></p>
+<h2><a href="https://leetcode.com/problems/primary-department-for-each-employee">Primary Department for Each Employee</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>Employee</code></p>
 
 <pre>
 +---------------+---------+
@@ -55,4 +55,4 @@ Employee table:
 - The Primary department for employee 2 is 1.
 - The Primary department for employee 3 is 3.
 - The Primary department for employee 4 is 3.
-</pre>
+</pre></div>

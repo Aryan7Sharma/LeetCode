@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-penalty-for-a-shop">Minimum Penalty for a Shop</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given the customer visit log of a shop represented by a <strong>0-indexed</strong> string <code>customers</code> consisting only of characters <code>&#39;N&#39;</code> and <code>&#39;Y&#39;</code>:</p>
+<h2><a href="https://leetcode.com/problems/minimum-penalty-for-a-shop">Minimum Penalty for a Shop</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>You are given the customer visit log of a shop represented by a <strong>0-indexed</strong> string <code>customers</code> consisting only of characters <code>&#39;N&#39;</code> and <code>&#39;Y&#39;</code>:</p>
 
 <ul>
 	<li>if the <code>i<sup>th</sup></code> character is <code>&#39;Y&#39;</code>, it means that customers come at the <code>i<sup>th</sup></code> hour</li>
@@ -52,4 +52,4 @@ Closing the shop at 2<sup>nd</sup> or 4<sup>th</sup> hour gives a minimum penalt
 <ul>
 	<li><code>1 &lt;= customers.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>customers</code> consists only of characters <code>&#39;Y&#39;</code> and <code>&#39;N&#39;</code>.</li>
-</ul>
+</ul></div>

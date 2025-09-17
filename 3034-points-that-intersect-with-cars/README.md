@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/points-that-intersect-with-cars">Points That Intersect With Cars</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> 2D integer array <code>nums</code> representing the coordinates of the cars parking on a number line. For any index <code>i</code>, <code>nums[i] = [start<sub>i</sub>, end<sub>i</sub>]</code> where <code>start<sub>i</sub></code> is the starting point of the <code>i<sup>th</sup></code> car and <code>end<sub>i</sub></code> is the ending point of the <code>i<sup>th</sup></code> car.</p>
+<h2><a href="https://leetcode.com/problems/points-that-intersect-with-cars">Points That Intersect With Cars</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a <strong>0-indexed</strong> 2D integer array <code>nums</code> representing the coordinates of the cars parking on a number line. For any index <code>i</code>, <code>nums[i] = [start<sub>i</sub>, end<sub>i</sub>]</code> where <code>start<sub>i</sub></code> is the starting point of the <code>i<sup>th</sup></code> car and <code>end<sub>i</sub></code> is the ending point of the <code>i<sup>th</sup></code> car.</p>
 
 <p>Return <em>the number of integer points on the line that are covered with <strong>any part</strong> of a car.</em></p>
 
@@ -26,4 +26,4 @@
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>nums[i].length == 2</code></li>
 	<li><code><font face="monospace">1 &lt;= start<sub>i</sub>&nbsp;&lt;= end<sub>i</sub>&nbsp;&lt;= 100</font></code></li>
-</ul>
+</ul></div>

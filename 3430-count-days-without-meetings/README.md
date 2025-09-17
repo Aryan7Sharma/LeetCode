@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-days-without-meetings">Count Days Without Meetings</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a positive integer <code>days</code> representing the total number of days an employee is available for work (starting from day 1). You are also given a 2D array <code>meetings</code> of size <code>n</code> where, <code>meetings[i] = [start_i, end_i]</code> represents the starting and ending days of meeting <code>i</code> (inclusive).</p>
+<h2><a href="https://leetcode.com/problems/count-days-without-meetings">Count Days Without Meetings</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>You are given a positive integer <code>days</code> representing the total number of days an employee is available for work (starting from day 1). You are also given a 2D array <code>meetings</code> of size <code>n</code> where, <code>meetings[i] = [start_i, end_i]</code> represents the starting and ending days of meeting <code>i</code> (inclusive).</p>
 
 <p>Return the count of days when the employee is available for work but no meetings are scheduled.</p>
 
@@ -49,4 +49,4 @@
 	<li><code>1 &lt;= meetings.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>meetings[i].length == 2</code></li>
 	<li><code><font face="monospace">1 &lt;= meetings[i][0] &lt;= meetings[i][1] &lt;= days</font></code></li>
-</ul>
+</ul></div>

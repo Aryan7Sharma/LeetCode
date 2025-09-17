@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-salary-categories">Count Salary Categories</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Table: <code>Accounts</code></p>
+<h2><a href="https://leetcode.com/problems/count-salary-categories">Count Salary Categories</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>Table: <code>Accounts</code></p>
 
 <pre>
 +-------------+------+
@@ -53,4 +53,4 @@ Accounts table:
 Low Salary: Account 2.
 Average Salary: No accounts.
 High Salary: Accounts 3, 6, and 8.
-</pre>
+</pre></div>

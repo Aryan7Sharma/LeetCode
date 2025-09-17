@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/symmetric-tree">Symmetric Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given the <code>root</code> of a binary tree, <em>check whether it is a mirror of itself</em> (i.e., symmetric around its center).</p>
+<h2><a href="https://leetcode.com/problems/symmetric-tree">Symmetric Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given the <code>root</code> of a binary tree, <em>check whether it is a mirror of itself</em> (i.e., symmetric around its center).</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -24,4 +24,4 @@
 </ul>
 
 <p>&nbsp;</p>
-<strong>Follow up:</strong> Could you solve it both recursively and iteratively?
+<strong>Follow up:</strong> Could you solve it both recursively and iteratively?</div>

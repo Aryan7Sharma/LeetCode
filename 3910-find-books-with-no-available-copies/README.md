@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-books-with-no-available-copies">Find Books with No Available Copies</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>library_books</code></p>
+<h2><a href="https://leetcode.com/problems/find-books-with-no-available-copies">Find Books with No Available Copies</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>library_books</code></p>
 
 <pre>
 +------------------+---------+
@@ -128,5 +128,4 @@ Each row represents a borrowing transaction and return_date is NULL if the book 
 	</li>
 </ul>
 
-<p>Output table is ordered by current_borrowers in descending order, then by book_title in ascending order.</p>
-</div>
+<p>Output table is ordered by current_borrowers in descending order, then by book_title in ascending order.</p></div>

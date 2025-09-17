@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/swap-salary">Swap Salary</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Salary</code></p>
+<h2><a href="https://leetcode.com/problems/swap-salary">Swap Salary</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>Salary</code></p>
 
 <pre>
 +-------------+----------+
@@ -48,4 +48,4 @@ Salary table:
 <strong>Explanation:</strong> 
 (1, A) and (3, C) were changed from &#39;m&#39; to &#39;f&#39;.
 (2, B) and (4, D) were changed from &#39;f&#39; to &#39;m&#39;.
-</pre>
+</pre></div>

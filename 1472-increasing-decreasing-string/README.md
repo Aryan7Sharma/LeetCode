@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/increasing-decreasing-string">Increasing Decreasing String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code>. Reorder the string using the following algorithm:</p>
+<h2><a href="https://leetcode.com/problems/increasing-decreasing-string">Increasing Decreasing String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a string <code>s</code>. Reorder the string using the following algorithm:</p>
 
 <ol>
 	<li>Pick the <strong>smallest</strong> character from <code>s</code> and <strong>append</strong> it to the result.</li>
@@ -41,4 +41,4 @@ After steps 4, 5 and 6 of the second iteration, result = &quot;abccbaabccba&quot
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 500</code></li>
 	<li><code>s</code> consists of only lowercase English letters.</li>
-</ul>
+</ul></div>

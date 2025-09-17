@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/binary-subarrays-with-sum">Binary Subarrays With Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a binary array <code>nums</code> and an integer <code>goal</code>, return <em>the number of non-empty <strong>subarrays</strong> with a sum</em> <code>goal</code>.</p>
+<h2><a href="https://leetcode.com/problems/binary-subarrays-with-sum">Binary Subarrays With Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>Given a binary array <code>nums</code> and an integer <code>goal</code>, return <em>the number of non-empty <strong>subarrays</strong> with a sum</em> <code>goal</code>.</p>
 
 <p>A <strong>subarray</strong> is a contiguous part of the array.</p>
 
@@ -29,4 +29,4 @@
 	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
 	<li><code>nums[i]</code> is either <code>0</code> or <code>1</code>.</li>
 	<li><code>0 &lt;= goal &lt;= nums.length</code></li>
-</ul>
+</ul></div>

@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list">Remove Zero Sum Consecutive Nodes from Linked List</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given the <code>head</code> of a linked list, we repeatedly delete consecutive sequences of nodes that sum to <code>0</code> until there are no such sequences.</p>
+<h2><a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list">Remove Zero Sum Consecutive Nodes from Linked List</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>Given the <code>head</code> of a linked list, we repeatedly delete consecutive sequences of nodes that sum to <code>0</code> until there are no such sequences.</p>
 
 <p>After doing so, return the head of the final linked list.&nbsp; You may return any such answer.</p>
 
@@ -33,4 +33,4 @@
 <ul>
 	<li>The given linked list will contain between <code>1</code> and <code>1000</code> nodes.</li>
 	<li>Each node in the linked list has <code>-1000 &lt;= node.val &lt;= 1000</code>.</li>
-</ul>
+</ul></div>

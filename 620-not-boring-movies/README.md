@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/not-boring-movies">Not Boring Movies</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Cinema</code></p>
+<h2><a href="https://leetcode.com/problems/not-boring-movies">Not Boring Movies</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>Cinema</code></p>
 
 <pre>
 +----------------+----------+
@@ -46,4 +46,4 @@ Cinema table:
 +----+------------+-------------+--------+
 <strong>Explanation:</strong> 
 We have three movies with odd-numbered IDs: 1, 3, and 5. The movie with ID = 3 is boring so we do not include it in the answer.
-</pre>
+</pre></div>

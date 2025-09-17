@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/invalid-tweets">Invalid Tweets</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Tweets</code></p>
+<h2><a href="https://leetcode.com/problems/invalid-tweets">Invalid Tweets</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>Tweets</code></p>
 
 <pre>
 +----------------+---------+
@@ -41,4 +41,4 @@ Tweets table:
 <strong>Explanation:</strong> 
 Tweet 1 has length = 11. It is a valid tweet.
 Tweet 2 has length = 33. It is an invalid tweet.
-</pre>
+</pre></div>

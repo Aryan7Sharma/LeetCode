@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/daily-leads-and-partners/">1693. Daily Leads and Partners</a></h2><h3>Easy</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>DailySales</code></p>
+<h2><a href="https://leetcode.com/problems/daily-leads-and-partners/">1693. Daily Leads and Partners</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>DailySales</code></p>
 
 <pre style="position: relative;">+-------------+---------+
 | Column Name | Type    |
@@ -52,5 +52,4 @@ DailySales table:
 <strong>Explanation:</strong> 
 For 2020-12-8, toyota gets leads = [0, 1] and partners = [0, 1, 2] while honda gets leads = [1, 2] and partners = [1, 2].
 For 2020-12-7, toyota gets leads = [0] and partners = [1, 2] while honda gets leads = [0, 1, 2] and partners = [1, 2].
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
-</div>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre></div>

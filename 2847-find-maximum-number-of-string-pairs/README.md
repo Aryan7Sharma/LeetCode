@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-maximum-number-of-string-pairs">Find Maximum Number of String Pairs</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> array <code>words</code> consisting of <strong>distinct</strong> strings.</p>
+<h2><a href="https://leetcode.com/problems/find-maximum-number-of-string-pairs">Find Maximum Number of String Pairs</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a <strong>0-indexed</strong> array <code>words</code> consisting of <strong>distinct</strong> strings.</p>
 
 <p>The string <code>words[i]</code> can be paired with the string <code>words[j]</code> if:</p>
 
@@ -48,4 +48,4 @@ It can be proven that 1 is the maximum number of pairs that can be formed.
 	<li><code>words[i].length == 2</code></li>
 	<li><code>words</code>&nbsp;consists of distinct strings.</li>
 	<li><code>words[i]</code>&nbsp;contains only lowercase English letters.</li>
-</ul>
+</ul></div>

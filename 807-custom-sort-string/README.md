@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/custom-sort-string">Custom Sort String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given two strings <code>order</code> and <code>s</code>. All the characters of <code>order</code> are <strong>unique</strong> and were sorted in some custom order previously.</p>
+<h2><a href="https://leetcode.com/problems/custom-sort-string">Custom Sort String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>You are given two strings <code>order</code> and <code>s</code>. All the characters of <code>order</code> are <strong>unique</strong> and were sorted in some custom order previously.</p>
 
 <p>Permute the characters of <code>s</code> so that they match the order that <code>order</code> was sorted. More specifically, if a character <code>x</code> occurs before a character <code>y</code> in <code>order</code>, then <code>x</code> should occur before <code>y</code> in the permuted string.</p>
 
@@ -37,4 +37,4 @@
 	<li><code>1 &lt;= s.length &lt;= 200</code></li>
 	<li><code>order</code> and <code>s</code> consist of lowercase English letters.</li>
 	<li>All the characters of <code>order</code> are <strong>unique</strong>.</li>
-</ul>
+</ul></div>

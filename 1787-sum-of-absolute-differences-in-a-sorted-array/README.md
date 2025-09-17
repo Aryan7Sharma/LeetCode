@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array">Sum of Absolute Differences in a Sorted Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code> sorted in <strong>non-decreasing</strong> order.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array">Sum of Absolute Differences in a Sorted Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>You are given an integer array <code>nums</code> sorted in <strong>non-decreasing</strong> order.</p>
 
 <p>Build and return <em>an integer array </em><code>result</code><em> with the same length as </em><code>nums</code><em> such that </em><code>result[i]</code><em> is equal to the <strong>summation of absolute differences</strong> between </em><code>nums[i]</code><em> and all the other elements in the array.</em></p>
 
@@ -29,4 +29,4 @@ result[2] = |5-2| + |5-3| + |5-5| = 3 + 2 + 0 = 5.
 <ul>
 	<li><code>2 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= nums[i] &lt;= nums[i + 1] &lt;= 10<sup>4</sup></code></li>
-</ul>
+</ul></div>

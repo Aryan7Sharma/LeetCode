@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">700. Search in a Binary Search Tree</a></h2><h3>Easy</h3><hr><div><p>You are given the <code>root</code> of a binary search tree (BST) and an integer <code>val</code>.</p>
+<h2><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">700. Search in a Binary Search Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given the <code>root</code> of a binary search tree (BST) and an integer <code>val</code>.</p>
 
 <p>Find the node in the BST that the node's value equals <code>val</code> and return the subtree rooted with that node. If such a node does not exist, return <code>null</code>.</p>
 
@@ -23,5 +23,4 @@
 	<li><code>1 &lt;= Node.val &lt;= 10<sup>7</sup></code></li>
 	<li><code>root</code> is a binary search tree.</li>
 	<li><code>1 &lt;= val &lt;= 10<sup>7</sup></code></li>
-</ul>
-</div>
+</ul></div>

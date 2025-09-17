@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-squares-of-special-elements">Sum of Squares of Special Elements </a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>1-indexed</strong> integer array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-squares-of-special-elements">Sum of Squares of Special Elements </a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a <strong>1-indexed</strong> integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>An element <code>nums[i]</code> of <code>nums</code> is called <strong>special</strong> if <code>i</code> divides <code>n</code>, i.e. <code>n % i == 0</code>.</p>
 
@@ -29,4 +29,4 @@ Hence, the sum of the squares of all special elements of nums is nums[1] * nums[
 <ul>
 	<li><code>1 &lt;= nums.length == n &lt;= 50</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 50</code></li>
-</ul>
+</ul></div>

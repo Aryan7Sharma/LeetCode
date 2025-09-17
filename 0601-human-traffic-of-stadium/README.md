@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/human-traffic-of-stadium/">601. Human Traffic of Stadium</a></h2><h3>Hard</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Stadium</code></p>
+<h2><a href="https://leetcode.com/problems/human-traffic-of-stadium/">601. Human Traffic of Stadium</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><div><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Stadium</code></p>
 
 <pre>+---------------+---------+
 | Column Name   | Type    |
@@ -49,5 +49,4 @@ Stadium table:
 <strong>Explanation:</strong> 
 The four rows with ids 5, 6, 7, and 8 have consecutive ids and each of them has &gt;= 100 people attended. Note that row 8 was included even though the visit_date was not the next day after row 7.
 The rows with ids 2 and 3 are not included because we need at least three consecutive ids.
-</pre>
-</div>
+</pre></div>

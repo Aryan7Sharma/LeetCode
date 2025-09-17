@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-fish-in-a-grid">Maximum Number of Fish in a Grid</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> 2D matrix <code>grid</code> of size <code>m x n</code>, where <code>(r, c)</code> represents:</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-fish-in-a-grid">Maximum Number of Fish in a Grid</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>You are given a <strong>0-indexed</strong> 2D matrix <code>grid</code> of size <code>m x n</code>, where <code>(r, c)</code> represents:</p>
 
 <ul>
 	<li>A <strong>land</strong> cell if <code>grid[r][c] = 0</code>, or</li>
@@ -41,4 +41,4 @@
 	<li><code>n == grid[i].length</code></li>
 	<li><code>1 &lt;= m, n &lt;= 10</code></li>
 	<li><code>0 &lt;= grid[i][j] &lt;= 10</code></li>
-</ul>
+</ul></div>

@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/big-countries">Big Countries</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>World</code></p>
+<h2><a href="https://leetcode.com/problems/big-countries">Big Countries</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>World</code></p>
 
 <pre>
 +-------------+---------+
@@ -51,4 +51,4 @@ World table:
 | Afghanistan | 25500100   | 652230  |
 | Algeria     | 37100000   | 2381741 |
 +-------------+------------+---------+
-</pre>
+</pre></div>

@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/biggest-single-number">Biggest Single Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>MyNumbers</code></p>
+<h2><a href="https://leetcode.com/problems/biggest-single-number">Biggest Single Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>MyNumbers</code></p>
 
 <pre>
 +-------------+------+
@@ -69,4 +69,4 @@ MyNumbers table:
 | null |
 +------+
 <strong>Explanation:</strong> There are no single numbers in the input table so we return null.
-</pre>
+</pre></div>

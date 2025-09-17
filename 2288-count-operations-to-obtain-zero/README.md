@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-operations-to-obtain-zero">Count Operations to Obtain Zero</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given two <strong>non-negative</strong> integers <code>num1</code> and <code>num2</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-operations-to-obtain-zero">Count Operations to Obtain Zero</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given two <strong>non-negative</strong> integers <code>num1</code> and <code>num2</code>.</p>
 
 <p>In one <strong>operation</strong>, if <code>num1 &gt;= num2</code>, you must subtract <code>num2</code> from <code>num1</code>, otherwise subtract <code>num1</code> from <code>num2</code>.</p>
 
@@ -38,4 +38,4 @@ So the total number of operations required is 1.
 
 <ul>
 	<li><code>0 &lt;= num1, num2 &lt;= 10<sup>5</sup></code></li>
-</ul>
+</ul></div>

@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-the-digits-that-divide-a-number/">2520. Count the Digits That Divide a Number</a></h2><h3>Easy</h3><hr><div><p>Given an integer <code>num</code>, return <em>the number of digits in <code>num</code> that divide </em><code>num</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-the-digits-that-divide-a-number/">2520. Count the Digits That Divide a Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given an integer <code>num</code>, return <em>the number of digits in <code>num</code> that divide </em><code>num</code>.</p>
 
 <p>An integer <code>val</code> divides <code>nums</code> if <code>nums % val == 0</code>.</p>
 
@@ -30,5 +30,4 @@
 <ul>
 	<li><code>1 &lt;= num &lt;= 10<sup>9</sup></code></li>
 	<li><code>num</code> does not contain <code>0</code> as one of its digits.</li>
-</ul>
-</div>
+</ul></div>

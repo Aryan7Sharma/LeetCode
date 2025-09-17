@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-complete-subarrays-in-an-array">Count Complete Subarrays in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
+<h2><a href="https://leetcode.com/problems/count-complete-subarrays-in-an-array">Count Complete Subarrays in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>You are given an array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
 
 <p>We call a subarray of an array <strong>complete</strong> if the following condition is satisfied:</p>
 
@@ -33,4 +33,4 @@
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 2000</code></li>
-</ul>
+</ul></div>

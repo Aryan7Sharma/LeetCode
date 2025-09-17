@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-k-digits">Remove K Digits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given string num representing a non-negative integer <code>num</code>, and an integer <code>k</code>, return <em>the smallest possible integer after removing</em> <code>k</code> <em>digits from</em> <code>num</code>.</p>
+<h2><a href="https://leetcode.com/problems/remove-k-digits">Remove K Digits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>Given string num representing a non-negative integer <code>num</code>, and an integer <code>k</code>, return <em>the smallest possible integer after removing</em> <code>k</code> <em>digits from</em> <code>num</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -32,4 +32,4 @@
 	<li><code>1 &lt;= k &lt;= num.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>num</code> consists of only digits.</li>
 	<li><code>num</code> does not have any leading zeros except for the zero itself.</li>
-</ul>
+</ul></div>

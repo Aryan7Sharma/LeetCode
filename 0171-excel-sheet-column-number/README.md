@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/excel-sheet-column-number/">171. Excel Sheet Column Number</a></h2><h3>Easy</h3><hr><div><p>Given a string <code>columnTitle</code> that represents the column title as appears in an Excel sheet, return <em>its corresponding column number</em>.</p>
+<h2><a href="https://leetcode.com/problems/excel-sheet-column-number/">171. Excel Sheet Column Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given a string <code>columnTitle</code> that represents the column title as appears in an Excel sheet, return <em>its corresponding column number</em>.</p>
 
 <p>For example:</p>
 
@@ -38,5 +38,4 @@ AB -&gt; 28
 	<li><code>1 &lt;= columnTitle.length &lt;= 7</code></li>
 	<li><code>columnTitle</code> consists only of uppercase English letters.</li>
 	<li><code>columnTitle</code> is in the range <code>["A", "FXSHRXW"]</code>.</li>
-</ul>
-</div>
+</ul></div>

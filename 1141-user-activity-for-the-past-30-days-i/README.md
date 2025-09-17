@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i/">1141. User Activity for the Past 30 Days I</a></h2><h3>Easy</h3><hr><div class="sql-schema-wrapper__3VBi"><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Activity</code></p>
+<h2><a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i/">1141. User Activity for the Past 30 Days I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><a class="sql-schema-link__3cEg">SQL Schema<svg viewBox="0 0 24 24" width="1em" height="1em" class="icon__1Md2"><path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></a></div><div><p>Table: <code>Activity</code></p>
 
 <pre>+---------------+---------+
 | Column Name   | Type    |
@@ -50,5 +50,4 @@ Activity table:
 | 2019-07-21 | 2            |
 +------------+--------------+ 
 <strong>Explanation:</strong> Note that we do not care about days with zero active users.
-</pre>
-</div>
+</pre></div>

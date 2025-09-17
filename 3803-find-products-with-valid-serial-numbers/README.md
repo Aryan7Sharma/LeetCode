@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-products-with-valid-serial-numbers">Find Products with Valid Serial Numbers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>products</code></p>
+<h2><a href="https://leetcode.com/problems/find-products-with-valid-serial-numbers">Find Products with Valid Serial Numbers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>products</code></p>
 
 <pre>
 +--------------+------------+
@@ -67,5 +67,4 @@ Each row in the table represents a product with its unique ID, name, and descrip
 	<li><strong>Product 5:</strong> Valid serial number SN4321-8765</li>
 </ul>
 
-<p>The result table is ordered by product_id in ascending order.</p>
-</div>
+<p>The result table is ordered by product_id in ascending order.</p></div>

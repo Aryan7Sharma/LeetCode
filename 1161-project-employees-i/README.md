@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/project-employees-i">Project Employees I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Project</code></p>
+<h2><a href="https://leetcode.com/problems/project-employees-i">Project Employees I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>Project</code></p>
 
 <pre>
 +-------------+---------+
@@ -68,4 +68,4 @@ Employee table:
 | 2           | 2.50          |
 +-------------+---------------+
 <strong>Explanation:</strong> The average experience years for the first project is (3 + 2 + 1) / 3 = 2.00 and for the second project is (3 + 2) / 2 = 2.50
-</pre>
+</pre></div>

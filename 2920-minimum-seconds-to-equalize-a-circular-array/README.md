@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array">Minimum Seconds to Equalize a Circular Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> containing <code>n</code> integers.</p>
+<h2><a href="https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array">Minimum Seconds to Equalize a Circular Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>You are given a <strong>0-indexed</strong> array <code>nums</code> containing <code>n</code> integers.</p>
 
 <p>At each second, you perform the following operation on the array:</p>
 
@@ -46,4 +46,4 @@ It can be proven that 2 seconds is the minimum amount of seconds needed for equa
 <ul>
 	<li><code>1 &lt;= n == nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
-</ul>
+</ul></div>

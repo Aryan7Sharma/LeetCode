@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/n-ary-tree-postorder-traversal/">590. N-ary Tree Postorder Traversal</a></h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of an n-ary tree, return <em>the postorder traversal of its nodes' values</em>.</p>
+<h2><a href="https://leetcode.com/problems/n-ary-tree-postorder-traversal/">590. N-ary Tree Postorder Traversal</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given the <code>root</code> of an n-ary tree, return <em>the postorder traversal of its nodes' values</em>.</p>
 
 <p>Nary-Tree input serialization is represented in their level order traversal. Each group of children is separated by the null value (See examples)</p>
 
@@ -25,5 +25,4 @@
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
-</div>
+<p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p></div>
