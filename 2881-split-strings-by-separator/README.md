@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/split-strings-by-separator">Split Strings by Separator</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array of strings <code>words</code> and a character <code>separator</code>, <strong>split</strong> each string in <code>words</code> by <code>separator</code>.</p>
+<h2><a href="https://leetcode.com/problems/split-strings-by-separator">Split Strings by Separator</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given an array of strings <code>words</code> and a character <code>separator</code>, <strong>split</strong> each string in <code>words</code> by <code>separator</code>.</p>
 
 <p>Return <em>an array of strings containing the new strings formed after the splits, <strong>excluding empty strings</strong>.</em></p>
 
@@ -52,4 +52,4 @@ Hence, the resulting array is [&quot;easy&quot;,&quot;problem&quot;].
 	<li><code>1 &lt;= words[i].length &lt;= 20</code></li>
 	<li>characters in <code>words[i]</code> are either lowercase English letters or characters from the string <code>&quot;.,|$#@&quot;</code> (excluding the quotes)</li>
 	<li><code>separator</code> is a character from the string <code>&quot;.,|$#@&quot;</code> (excluding the quotes)</li>
-</ul>
+</ul></div>

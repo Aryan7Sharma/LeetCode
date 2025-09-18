@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-vowel-substrings-of-a-string">Count Vowel Substrings of a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A <strong>substring</strong> is a contiguous (non-empty) sequence of characters within a string.</p>
+<h2><a href="https://leetcode.com/problems/count-vowel-substrings-of-a-string">Count Vowel Substrings of a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>A <strong>substring</strong> is a contiguous (non-empty) sequence of characters within a string.</p>
 
 <p>A <strong>vowel substring</strong> is a substring that <strong>only</strong> consists of vowels (<code>&#39;a&#39;</code>, <code>&#39;e&#39;</code>, <code>&#39;i&#39;</code>, <code>&#39;o&#39;</code>, and <code>&#39;u&#39;</code>) and has <strong>all five</strong> vowels present in it.</p>
 
@@ -44,4 +44,4 @@
 <ul>
 	<li><code>1 &lt;= word.length &lt;= 100</code></li>
 	<li><code>word</code> consists of lowercase English letters only.</li>
-</ul>
+</ul></div>

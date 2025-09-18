@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/faulty-keyboard">Faulty Keyboard</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Your laptop keyboard is faulty, and whenever you type a character <code>&#39;i&#39;</code> on it, it reverses the string that you have written. Typing other characters works as expected.</p>
+<h2><a href="https://leetcode.com/problems/faulty-keyboard">Faulty Keyboard</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Your laptop keyboard is faulty, and whenever you type a character <code>&#39;i&#39;</code> on it, it reverses the string that you have written. Typing other characters works as expected.</p>
 
 <p>You are given a <strong>0-indexed</strong> string <code>s</code>, and you type each character of <code>s</code> using your faulty keyboard.</p>
 
@@ -43,4 +43,4 @@ Therefore, we return &quot;ponter&quot;.</pre>
 	<li><code>1 &lt;= s.length &lt;= 100</code></li>
 	<li><code>s</code> consists of lowercase English letters.</li>
 	<li><code>s[0] != &#39;i&#39;</code></li>
-</ul>
+</ul></div>

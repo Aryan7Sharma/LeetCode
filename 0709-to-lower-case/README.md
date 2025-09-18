@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/to-lower-case/">709. To Lower Case</a></h2><h3>Easy</h3><hr><div><p>Given a string <code>s</code>, return <em>the string after replacing every uppercase letter with the same lowercase letter</em>.</p>
+<h2><a href="https://leetcode.com/problems/to-lower-case/">709. To Lower Case</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given a string <code>s</code>, return <em>the string after replacing every uppercase letter with the same lowercase letter</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -25,5 +25,4 @@
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 100</code></li>
 	<li><code>s</code> consists of printable ASCII characters.</li>
-</ul>
-</div>
+</ul></div>

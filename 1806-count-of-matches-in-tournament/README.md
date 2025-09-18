@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-of-matches-in-tournament">Count of Matches in Tournament</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer <code>n</code>, the number of teams in a tournament that has strange rules:</p>
+<h2><a href="https://leetcode.com/problems/count-of-matches-in-tournament">Count of Matches in Tournament</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given an integer <code>n</code>, the number of teams in a tournament that has strange rules:</p>
 
 <ul>
 	<li>If the current number of teams is <strong>even</strong>, each team gets paired with another team. A total of <code>n / 2</code> matches are played, and <code>n / 2</code> teams advance to the next round.</li>
@@ -38,4 +38,4 @@ Total number of matches = 7 + 3 + 2 + 1 = 13.
 
 <ul>
 	<li><code>1 &lt;= n &lt;= 200</code></li>
-</ul>
+</ul></div>

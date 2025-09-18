@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">144. Binary Tree Preorder Traversal</a></h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary tree, return <em>the preorder traversal of its nodes' values</em>.</p>
+<h2><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">144. Binary Tree Preorder Traversal</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given the <code>root</code> of a binary tree, return <em>the preorder traversal of its nodes' values</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -28,5 +28,4 @@
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
-</div>
+<p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p></div>

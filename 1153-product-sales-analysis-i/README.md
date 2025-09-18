@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/product-sales-analysis-i">Product Sales Analysis I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Sales</code></p>
+<h2><a href="https://leetcode.com/problems/product-sales-analysis-i">Product Sales Analysis I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>Sales</code></p>
 
 <pre>
 +-------------+-------+
@@ -72,4 +72,4 @@ Product table:
 From sale_id = 1, we can conclude that Nokia was sold for 5000 in the year 2008.
 From sale_id = 2, we can conclude that Nokia was sold for 5000 in the year 2009.
 From sale_id = 7, we can conclude that Apple was sold for 9000 in the year 2011.
-</pre>
+</pre></div>

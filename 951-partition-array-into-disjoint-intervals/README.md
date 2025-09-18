@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals">Partition Array into Disjoint Intervals</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an integer array <code>nums</code>, partition it into two (contiguous) subarrays <code>left</code> and <code>right</code> so that:</p>
+<h2><a href="https://leetcode.com/problems/partition-array-into-disjoint-intervals">Partition Array into Disjoint Intervals</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>Given an integer array <code>nums</code>, partition it into two (contiguous) subarrays <code>left</code> and <code>right</code> so that:</p>
 
 <ul>
 	<li>Every element in <code>left</code> is less than or equal to every element in <code>right</code>.</li>
@@ -34,4 +34,4 @@
 	<li><code>2 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 10<sup>6</sup></code></li>
 	<li>There is at least one valid answer for the given input.</li>
-</ul>
+</ul></div>

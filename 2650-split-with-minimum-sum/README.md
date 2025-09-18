@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/split-with-minimum-sum">Split With Minimum Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a positive integer <code>num</code>, split it into two non-negative integers <code>num1</code> and <code>num2</code> such that:</p>
+<h2><a href="https://leetcode.com/problems/split-with-minimum-sum">Split With Minimum Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given a positive integer <code>num</code>, split it into two non-negative integers <code>num1</code> and <code>num2</code> such that:</p>
 
 <ul>
 	<li>The concatenation of <code>num1</code> and <code>num2</code> is a permutation of <code>num</code>.
@@ -41,4 +41,4 @@
 
 <ul>
 	<li><code>10 &lt;= num &lt;= 10<sup>9</sup></code></li>
-</ul>
+</ul></div>

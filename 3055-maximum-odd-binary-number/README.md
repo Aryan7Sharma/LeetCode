@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-odd-binary-number">Maximum Odd Binary Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>binary</strong> string <code>s</code> that contains at least one <code>&#39;1&#39;</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-odd-binary-number">Maximum Odd Binary Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a <strong>binary</strong> string <code>s</code> that contains at least one <code>&#39;1&#39;</code>.</p>
 
 <p>You have to <strong>rearrange</strong> the bits in such a way that the resulting binary number is the <strong>maximum odd binary number</strong> that can be created from this combination.</p>
 
@@ -30,4 +30,4 @@
 	<li><code>1 &lt;= s.length &lt;= 100</code></li>
 	<li><code>s</code> consists only of <code>&#39;0&#39;</code> and <code>&#39;1&#39;</code>.</li>
 	<li><code>s</code> contains at least one <code>&#39;1&#39;</code>.</li>
-</ul>
+</ul></div>

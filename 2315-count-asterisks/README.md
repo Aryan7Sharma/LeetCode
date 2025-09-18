@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-asterisks/">2315. Count Asterisks</a></h2><h3>Easy</h3><hr><div><p>You are given a string <code>s</code>, where every <strong>two</strong> consecutive vertical bars <code>'|'</code> are grouped into a <strong>pair</strong>. In other words, the 1<sup>st</sup> and 2<sup>nd</sup> <code>'|'</code> make a pair, the 3<sup>rd</sup> and 4<sup>th</sup> <code>'|'</code> make a pair, and so forth.</p>
+<h2><a href="https://leetcode.com/problems/count-asterisks/">2315. Count Asterisks</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a string <code>s</code>, where every <strong>two</strong> consecutive vertical bars <code>'|'</code> are grouped into a <strong>pair</strong>. In other words, the 1<sup>st</sup> and 2<sup>nd</sup> <code>'|'</code> make a pair, the 3<sup>rd</sup> and 4<sup>th</sup> <code>'|'</code> make a pair, and so forth.</p>
 
 <p>Return <em>the number of </em><code>'*'</code><em> in </em><code>s</code><em>, <strong>excluding</strong> the </em><code>'*'</code><em> between each pair of </em><code>'|'</code>.</p>
 
@@ -34,5 +34,4 @@ There are 2 asterisks considered. Therefore, we return 2.</pre>
 	<li><code>1 &lt;= s.length &lt;= 1000</code></li>
 	<li><code>s</code> consists of lowercase English letters, vertical bars <code>'|'</code>, and asterisks <code>'*'</code>.</li>
 	<li><code>s</code> contains an <strong>even</strong> number of vertical bars <code>'|'</code>.</li>
-</ul>
-</div>
+</ul></div>

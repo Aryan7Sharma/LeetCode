@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-distance-value-between-two-arrays">Find the Distance Value Between Two Arrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given two integer arrays <code>arr1</code> and <code>arr2</code>, and the integer <code>d</code>, <em>return the distance value between the two arrays</em>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-distance-value-between-two-arrays">Find the Distance Value Between Two Arrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given two integer arrays <code>arr1</code> and <code>arr2</code>, and the integer <code>d</code>, <em>return the distance value between the two arrays</em>.</p>
 
 <p>The distance value is defined as the number of elements <code>arr1[i]</code> such that there is not any element <code>arr2[j]</code> where <code>|arr1[i]-arr2[j]| &lt;= d</code>.</p>
 
@@ -47,4 +47,4 @@ For arr1[2]=8 we have:
 	<li><code>1 &lt;= arr1.length, arr2.length &lt;= 500</code></li>
 	<li><code>-1000 &lt;= arr1[i], arr2[j] &lt;= 1000</code></li>
 	<li><code>0 &lt;= d &lt;= 100</code></li>
-</ul>
+</ul></div>

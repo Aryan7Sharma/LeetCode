@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-balanced-string">Check Balanced String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>num</code> consisting of only digits. A string of digits is called <b>balanced </b>if the sum of the digits at even indices is equal to the sum of digits at odd indices.</p>
+<h2><a href="https://leetcode.com/problems/check-balanced-string">Check Balanced String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a string <code>num</code> consisting of only digits. A string of digits is called <b>balanced </b>if the sum of the digits at even indices is equal to the sum of digits at odd indices.</p>
 
 <p>Return <code>true</code> if <code>num</code> is <strong>balanced</strong>, otherwise return <code>false</code>.</p>
 
@@ -39,4 +39,4 @@
 <ul>
 	<li><code>2 &lt;= num.length &lt;= 100</code></li>
 	<li><code><font face="monospace">num</font></code> consists of digits only</li>
-</ul>
+</ul></div>

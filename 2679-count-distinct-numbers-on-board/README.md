@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-distinct-numbers-on-board">Count Distinct Numbers on Board</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a positive integer <code>n</code>, that is initially placed on a board. Every day, for <code>10<sup>9</sup></code> days, you perform the following procedure:</p>
+<h2><a href="https://leetcode.com/problems/count-distinct-numbers-on-board">Count Distinct Numbers on Board</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a positive integer <code>n</code>, that is initially placed on a board. Every day, for <code>10<sup>9</sup></code> days, you perform the following procedure:</p>
 
 <ul>
 	<li>For each number <code>x</code> present on the board, find all numbers <code>1 &lt;= i &lt;= n</code> such that <code>x % i == 1</code>.</li>
@@ -41,4 +41,4 @@ After a billion days, the only two distinct numbers on the board are 2 and 3.
 
 <ul>
 	<li><code>1 &lt;= n &lt;= 100</code></li>
-</ul>
+</ul></div>

@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/employee-bonus">Employee Bonus</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Employee</code></p>
+<h2><a href="https://leetcode.com/problems/employee-bonus">Employee Bonus</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>Employee</code></p>
 
 <pre>
 +-------------+---------+
@@ -66,4 +66,4 @@ Bonus table:
 | John | null  |
 | Dan  | 500   |
 +------+-------+
-</pre>
+</pre></div>

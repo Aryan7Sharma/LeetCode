@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/account-balance-after-rounded-purchase">Account Balance After Rounded Purchase</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Initially, you have a bank account balance of <code>100</code> dollars.</p>
+<h2><a href="https://leetcode.com/problems/account-balance-after-rounded-purchase">Account Balance After Rounded Purchase</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Initially, you have a bank account balance of <code>100</code> dollars.</p>
 
 <p>You are given an integer <code>purchaseAmount</code> representing the amount you will spend on a purchase in dollars.</p>
 
@@ -33,4 +33,4 @@ Hence, your account balance becomes 100 - 20 = 80.
 
 <ul>
 	<li><code>0 &lt;= purchaseAmount &lt;= 100</code></li>
-</ul>
+</ul></div>

@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/binary-watch/">401. Binary Watch</a></h2><h3>Easy</h3><hr><div><p>A binary watch has 4 LEDs on the top to represent the hours (0-11), and 6 LEDs on the bottom to represent&nbsp;the minutes (0-59). Each LED represents a zero or one, with the least significant bit on the right.</p>
+<h2><a href="https://leetcode.com/problems/binary-watch/">401. Binary Watch</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>A binary watch has 4 LEDs on the top to represent the hours (0-11), and 6 LEDs on the bottom to represent&nbsp;the minutes (0-59). Each LED represents a zero or one, with the least significant bit on the right.</p>
 
 <ul>
 	<li>For example, the below binary watch reads <code>"4:51"</code>.</li>
@@ -33,5 +33,4 @@
 
 <ul>
 	<li><code>0 &lt;= turnedOn &lt;= 10</code></li>
-</ul>
-</div>
+</ul></div>

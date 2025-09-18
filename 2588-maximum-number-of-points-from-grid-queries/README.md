@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-points-from-grid-queries">Maximum Number of Points From Grid Queries</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an <code>m x n</code> integer matrix <code>grid</code> and an array <code>queries</code> of size <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-points-from-grid-queries">Maximum Number of Points From Grid Queries</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><div><p>You are given an <code>m x n</code> integer matrix <code>grid</code> and an array <code>queries</code> of size <code>k</code>.</p>
 
 <p>Find an array <code>answer</code> of size <code>k</code> such that for each integer <code>queries[i]</code> you start in the <strong>top left</strong> cell of the matrix and repeat the following process:</p>
 
@@ -38,4 +38,4 @@
 	<li><code>k == queries.length</code></li>
 	<li><code>1 &lt;= k &lt;= 10<sup>4</sup></code></li>
 	<li><code>1 &lt;= grid[i][j], queries[i] &lt;= 10<sup>6</sup></code></li>
-</ul>
+</ul></div>

@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/">2522. Partition String Into Substrings With Values at Most K</a></h2><h3>Medium</h3><hr><div><p>You are given a string <code>s</code> consisting of digits from <code>1</code> to <code>9</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/">2522. Partition String Into Substrings With Values at Most K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>You are given a string <code>s</code> consisting of digits from <code>1</code> to <code>9</code> and an integer <code>k</code>.</p>
 
 <p>A partition of a string <code>s</code> is called <strong>good</strong> if:</p>
 
@@ -41,12 +41,4 @@ It can be shown that we cannot partition the string into less than 4 substrings.
 	<li><code>1 &lt;= k &lt;= 10<sup>9</sup></code></li>
 </ul>
 
-<p>&nbsp;</p>
-<style type="text/css">.spoilerbutton {display:block; border:dashed; padding: 0px 0px; margin:10px 0px; font-size:150%; font-weight: bold; color:#000000; background-color:cyan; outline:0; 
-}
-.spoiler {overflow:hidden;}
-.spoiler > div {-webkit-transition: all 0s ease;-moz-transition: margin 0s ease;-o-transition: all 0s ease;transition: margin 0s ease;}
-.spoilerbutton[value="Show Message"] + .spoiler > div {margin-top:-500%;}
-.spoilerbutton[value="Hide Message"] + .spoiler {padding:5px;}
-</style>
-</div>
+<p>&nbsp;</p></div>

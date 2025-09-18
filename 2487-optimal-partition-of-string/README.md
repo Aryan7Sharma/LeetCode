@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/optimal-partition-of-string">Optimal Partition of String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a string <code>s</code>, partition the string into one or more <strong>substrings</strong> such that the characters in each substring are <strong>unique</strong>. That is, no letter appears in a single substring more than <strong>once</strong>.</p>
+<h2><a href="https://leetcode.com/problems/optimal-partition-of-string">Optimal Partition of String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>Given a string <code>s</code>, partition the string into one or more <strong>substrings</strong> such that the characters in each substring are <strong>unique</strong>. That is, no letter appears in a single substring more than <strong>once</strong>.</p>
 
 <p>Return <em>the <strong>minimum</strong> number of substrings in such a partition.</em></p>
 
@@ -30,4 +30,4 @@ It can be shown that 4 is the minimum number of substrings needed.
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> consists of only English lowercase letters.</li>
-</ul>
+</ul></div>

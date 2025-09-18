@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits">Sum of Values at Indices With K Set Bits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits">Sum of Values at Indices With K Set Bits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>Return <em>an integer that denotes the <strong>sum</strong> of elements in </em><code>nums</code><em> whose corresponding <strong>indices</strong> have <strong>exactly</strong> </em><code>k</code><em> set bits in their binary representation.</em></p>
 
@@ -44,4 +44,4 @@ Hence, the answer is nums[3] = 1.
 	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= k &lt;= 10</code></li>
-</ul>
+</ul></div>

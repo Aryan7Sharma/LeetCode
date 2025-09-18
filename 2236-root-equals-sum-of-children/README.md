@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/root-equals-sum-of-children/">2236. Root Equals Sum of Children</a></h2><h3>Easy</h3><hr><div><p>You are given the <code>root</code> of a <strong>binary tree</strong> that consists of exactly <code>3</code> nodes: the root, its left child, and its right child.</p>
+<h2><a href="https://leetcode.com/problems/root-equals-sum-of-children/">2236. Root Equals Sum of Children</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given the <code>root</code> of a <strong>binary tree</strong> that consists of exactly <code>3</code> nodes: the root, its left child, and its right child.</p>
 
 <p>Return <code>true</code> <em>if the value of the root is equal to the <strong>sum</strong> of the values of its two children, or </em><code>false</code><em> otherwise</em>.</p>
 
@@ -25,5 +25,4 @@
 <ul>
 	<li>The tree consists only of the root, its left child, and its right child.</li>
 	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
-</ul>
-</div>
+</ul></div>

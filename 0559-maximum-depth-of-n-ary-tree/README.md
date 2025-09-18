@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-depth-of-n-ary-tree/">559. Maximum Depth of N-ary Tree</a></h2><h3>Easy</h3><hr><div><p>Given a n-ary tree, find its maximum depth.</p>
+<h2><a href="https://leetcode.com/problems/maximum-depth-of-n-ary-tree/">559. Maximum Depth of N-ary Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given a n-ary tree, find its maximum depth.</p>
 
 <p>The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.</p>
 
@@ -27,5 +27,4 @@
 <ul>
 	<li>The total number of nodes is in the range <code>[0, 10<sup>4</sup>]</code>.</li>
 	<li>The depth of the n-ary tree is less than or equal to <code>1000</code>.</li>
-</ul>
-</div>
+</ul></div>

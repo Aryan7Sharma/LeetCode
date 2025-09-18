@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-pairs-in-array">Maximum Number of Pairs in Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. In one operation, you may do the following:</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-pairs-in-array">Maximum Number of Pairs in Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. In one operation, you may do the following:</p>
 
 <ul>
 	<li>Choose <strong>two</strong> integers in <code>nums</code> that are <strong>equal</strong>.</li>
@@ -45,4 +45,4 @@ No more pairs can be formed. A total of 1 pair has been formed, and there are 0 
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
-</ul>
+</ul></div>

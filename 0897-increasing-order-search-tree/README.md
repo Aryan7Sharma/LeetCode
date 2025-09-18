@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/increasing-order-search-tree/">897. Increasing Order Search Tree</a></h2><h3>Easy</h3><hr><div><p>Given the <code>root</code> of a binary search tree, rearrange the tree in <strong>in-order</strong> so that the leftmost node in the tree is now the root of the tree, and every node has no left child and only one right child.</p>
+<h2><a href="https://leetcode.com/problems/increasing-order-search-tree/">897. Increasing Order Search Tree</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given the <code>root</code> of a binary search tree, rearrange the tree in <strong>in-order</strong> so that the leftmost node in the tree is now the root of the tree, and every node has no left child and only one right child.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -19,5 +19,4 @@
 <ul>
 	<li>The number of nodes in the given tree will be in the range <code>[1, 100]</code>.</li>
 	<li><code>0 &lt;= Node.val &lt;= 1000</code></li>
-</ul>
-</div>
+</ul></div>

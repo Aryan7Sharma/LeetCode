@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/">1309. Decrypt String from Alphabet to Integer Mapping</a></h2><h3>Easy</h3><hr><div><p>You are given a string <code>s</code> formed by digits and <code>'#'</code>. We want to map <code>s</code> to English lowercase characters as follows:</p>
+<h2><a href="https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/">1309. Decrypt String from Alphabet to Integer Mapping</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a string <code>s</code> formed by digits and <code>'#'</code>. We want to map <code>s</code> to English lowercase characters as follows:</p>
 
 <ul>
 	<li>Characters (<code>'a'</code> to <code>'i'</code>) are represented by (<code>'1'</code> to <code>'9'</code>) respectively.</li>
@@ -30,5 +30,4 @@
 	<li><code>1 &lt;= s.length &lt;= 1000</code></li>
 	<li><code>s</code> consists of digits and the <code>'#'</code> letter.</li>
 	<li><code>s</code> will be a valid string such that mapping is always possible.</li>
-</ul>
-</div>
+</ul></div>

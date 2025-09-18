@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/list-the-products-ordered-in-a-period">List the Products Ordered in a Period</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Products</code></p>
+<h2><a href="https://leetcode.com/problems/list-the-products-ordered-in-a-period">List the Products Ordered in a Period</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Table: <code>Products</code></p>
 
 <pre>
 +------------------+---------+
@@ -82,4 +82,4 @@ Products with product_id = 2 is ordered in February a total of 80.
 Products with product_id = 3 is ordered in February a total of (2 + 3) = 5.
 Products with product_id = 4 was not ordered in February 2020.
 Products with product_id = 5 is ordered in February a total of (50 + 50) = 100.
-</pre>
+</pre></div>

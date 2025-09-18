@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/distribute-candies-to-people">Distribute Candies to People</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>We distribute some&nbsp;number of <code>candies</code>, to a row of <strong><code>n =&nbsp;num_people</code></strong>&nbsp;people in the following way:</p>
+<h2><a href="https://leetcode.com/problems/distribute-candies-to-people">Distribute Candies to People</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>We distribute some&nbsp;number of <code>candies</code>, to a row of <strong><code>n =&nbsp;num_people</code></strong>&nbsp;people in the following way:</p>
 
 <p>We then give 1 candy to the first person, 2 candies to the second person, and so on until we give <code>n</code>&nbsp;candies to the last person.</p>
 
@@ -39,4 +39,4 @@ On the fourth turn, ans[0] += 4, and the final array is [5,2,3].
 <ul>
 	<li>1 &lt;= candies &lt;= 10^9</li>
 	<li>1 &lt;= num_people &lt;= 1000</li>
-</ul>
+</ul></div>

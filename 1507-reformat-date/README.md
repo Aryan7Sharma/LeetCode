@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reformat-date/">1507. Reformat Date</a></h2><h3>Easy</h3><hr><div><p>Given a <code>date</code> string in the form&nbsp;<code>Day Month Year</code>, where:</p>
+<h2><a href="https://leetcode.com/problems/reformat-date/">1507. Reformat Date</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Given a <code>date</code> string in the form&nbsp;<code>Day Month Year</code>, where:</p>
 
 <ul>
 	<li><code>Day</code>&nbsp;is in the set <code>{"1st", "2nd", "3rd", "4th", ..., "30th", "31st"}</code>.</li>
@@ -38,5 +38,4 @@
 
 <ul>
 	<li>The given dates are guaranteed to be valid, so no error handling is necessary.</li>
-</ul>
-</div>
+</ul></div>

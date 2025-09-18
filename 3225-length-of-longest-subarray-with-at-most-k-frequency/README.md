@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency">Length of Longest Subarray With at Most K Frequency</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency">Length of Longest Subarray With at Most K Frequency</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>The <strong>frequency</strong> of an element <code>x</code> is the number of times it occurs in an array.</p>
 
@@ -43,4 +43,4 @@ It can be shown that there are no good subarrays with length more than 4.
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>1 &lt;= k &lt;= nums.length</code></li>
-</ul>
+</ul></div>

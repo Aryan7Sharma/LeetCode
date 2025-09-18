@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid">Minimum Operations to Make a Uni-Value Grid</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a 2D integer <code>grid</code> of size <code>m x n</code> and an integer <code>x</code>. In one operation, you can <strong>add</strong> <code>x</code> to or <strong>subtract</strong> <code>x</code> from any element in the <code>grid</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid">Minimum Operations to Make a Uni-Value Grid</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><div><p>You are given a 2D integer <code>grid</code> of size <code>m x n</code> and an integer <code>x</code>. In one operation, you can <strong>add</strong> <code>x</code> to or <strong>subtract</strong> <code>x</code> from any element in the <code>grid</code>.</p>
 
 <p>A <strong>uni-value grid</strong> is a grid where all the elements of it are equal.</p>
 
@@ -42,4 +42,4 @@ A total of 4 operations were used.
 	<li><code>1 &lt;= m, n &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= m * n &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= x, grid[i][j] &lt;= 10<sup>4</sup></code></li>
-</ul>
+</ul></div>

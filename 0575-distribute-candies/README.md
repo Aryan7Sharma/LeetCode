@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/distribute-candies/">575. Distribute Candies</a></h2><h3>Easy</h3><hr><div><p>Alice has <code>n</code> candies, where the <code>i<sup>th</sup></code> candy is of type <code>candyType[i]</code>. Alice noticed that she started to gain weight, so she visited a doctor.</p>
+<h2><a href="https://leetcode.com/problems/distribute-candies/">575. Distribute Candies</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>Alice has <code>n</code> candies, where the <code>i<sup>th</sup></code> candy is of type <code>candyType[i]</code>. Alice noticed that she started to gain weight, so she visited a doctor.</p>
 
 <p>The doctor advised Alice to only eat <code>n / 2</code> of the candies she has (<code>n</code> is always even). Alice likes her candies very much, and she wants to eat the maximum number of different types of candies while still following the doctor's advice.</p>
 
@@ -34,5 +34,4 @@
 	<li><code>2 &lt;= n &lt;= 10<sup>4</sup></code></li>
 	<li><code>n</code>&nbsp;is even.</li>
 	<li><code>-10<sup>5</sup> &lt;= candyType[i] &lt;= 10<sup>5</sup></code></li>
-</ul>
-</div>
+</ul></div>

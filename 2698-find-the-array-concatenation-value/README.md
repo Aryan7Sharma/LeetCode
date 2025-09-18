@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-array-concatenation-value">Find the Array Concatenation Value</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-array-concatenation-value">Find the Array Concatenation Value</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><div><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>.</p>
 
 <p>The <strong>concatenation</strong> of two numbers is the number formed by concatenating their numerals.</p>
 
@@ -61,11 +61,4 @@ Since the concatenation value is 673 so the answer is 673.
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
 
-<p>&nbsp;</p>
-<style type="text/css">.spoilerbutton {display:block; border:dashed; padding: 0px 0px; margin:10px 0px; font-size:150%; font-weight: bold; color:#000000; background-color:cyan; outline:0; 
-}
-.spoiler {overflow:hidden;}
-.spoiler > div {-webkit-transition: all 0s ease;-moz-transition: margin 0s ease;-o-transition: all 0s ease;transition: margin 0s ease;}
-.spoilerbutton[value="Show Message"] + .spoiler > div {margin-top:-500%;}
-.spoilerbutton[value="Hide Message"] + .spoiler {padding:5px;}
-</style>
+<p>&nbsp;</p></div>
