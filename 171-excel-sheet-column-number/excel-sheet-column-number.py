@@ -5,9 +5,9 @@ class Solution:
         if len(columnTitle)<2: return columnTitleMap[columnTitle]
 
         column_num = columnTitleMap[columnTitle[0]]
-        for i in range(1, len(columnTitle)):
+        for i in columnTitle[1:]:
             column_num = column_num*26
-            column_num+=columnTitleMap[columnTitle[i]]
+            column_num+=columnTitleMap[i]
 
         return column_num
             
