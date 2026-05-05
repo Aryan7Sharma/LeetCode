@@ -1,8 +1,8 @@
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
+# # Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         if not head or not head.next or k<1:return head
@@ -24,4 +24,4 @@ class Solution:
         return head
 
 #### need to optimize this this is a brute force solution.
-#### for optimization
+#### for optimization get the modulo of k%length that time it needs to rotate other than that is a circular. repeating.
