@@ -9,8 +9,8 @@ class Solution:
                     newrow.append(boxGrid[row][col])
                     obstIndex = col
                 elif boxGrid[row][col] == ".":
-                    if obstIndex>=0:newrow = newrow[:obstIndex+1] + ["."] + newrow[obstIndex+1:]
-                    else:newrow = ["."] + newrow
+                    pos = obstIndex + 1 if obstIndex >= 0 else 0
+                    newrow.insert(pos, ".")
                 else:
                     newrow.append(boxGrid[row][col])
             boxGrid[row] = newrow
