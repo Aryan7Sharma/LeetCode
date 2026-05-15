@@ -1,7 +1,11 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        miniele = float(inf)
-        for i in nums:
-            if i<miniele:miniele=i
-        return miniele
+        rotationCount = 1
+        for i in range(1,len(nums)):
+            if nums[i]<nums[i-1]:
+                print(f"The original array was {nums} and it was rotated {rotationCount} times.")
+                return nums[i]
+            else:rotationCount+=1
+        print(f"The original array was {nums} and it was rotated {rotationCount} times.")
+        return nums[0]
         
